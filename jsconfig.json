@@ -1,0 +1,10 @@
+{
+  
+  "compilerOptions": {
+    "moduleResolution": "nodenext",
+    "module": "nodenext",            // 新增這一行
+    "target": "ES2021",
+    "checkJs": false,
+    "allowJs": true
+  }
+}
