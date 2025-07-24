@@ -77,6 +77,16 @@
         "shared.rich-text",
         "shared.slider"
       ]
+    },
+    "seo": {
+      "type": "component",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "component": "shared.seo",
+      "repeatable": true
     }
   }
 }
