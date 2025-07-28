@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_global_list_sections",
+  "info": {
+    "displayName": "ListSection"
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "type": "blocks",
+      "required": true
+    }
+  },
+  "config": {}
+}
